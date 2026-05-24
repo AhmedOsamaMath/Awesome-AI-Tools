@@ -129,6 +129,12 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Trial Period**: Not applicable.
     - **Link**: [Visit RestorePhotos.io](https://www.restorephotos.io)
 
+20. **LandscapioAI**
+    - **Description**: AI landscape design generator for outdoor space concepts and visual planning.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free to try.
+    - **Link**: [Visit LandscapioAI](https://www.landscapioai.com/)
+
 ### Text Generation
 1. **ChatGPT**  
    - **Description**: A conversational AI tool by OpenAI for generating text and engaging in discussions.
