@@ -430,6 +430,12 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Trial Period**: Free trial available
     - **Link**: [Visit Slip.stream](https://www.slip.stream)
 
+18. **Future AGI**  
+    - **Description**: Open-source platform to evaluate, trace, and guardrail LLM and AI agent apps, so agents self-improve instead of just getting monitored.
+    - **Pricing**: Freemium (open-source, self-hostable)
+    - **Trial Period**: Free tier available.
+    - **Link**: [Visit Future AGI](https://github.com/future-agi/future-agi)
+
 ---
 
 ## Contributing
