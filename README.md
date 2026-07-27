@@ -260,6 +260,7 @@ This repository provides a curated list of AI tools, with details on their uses,
 
 ### Speech Recognition
 1. **Whisper API**  
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
    - **Description**: A speech recognition tool by OpenAI, capable of transcribing audio files.
    - **Pricing**: Paid (usage-based)
    - **Trial Period**: Not available.
