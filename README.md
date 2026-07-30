@@ -135,6 +135,12 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Trial Period**: Free to try.
     - **Link**: [Visit LandscapioAI](https://www.landscapioai.com/)
 
+21. **AIImageChanger.app**
+    - **Description**: Browser-based AI image editor for changing backgrounds, objects, clothing, colors, and styles with plain-language prompts.
+    - **Pricing**: Freemium
+    - **Trial Period**: 10 signup credits valid for 30 days.
+    - **Link**: [Visit AIImageChanger.app](https://aiimagechanger.app/)
+
 ### Text Generation
 1. **ChatGPT**  
    - **Description**: A conversational AI tool by OpenAI for generating text and engaging in discussions.
