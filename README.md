@@ -10,6 +10,7 @@ This repository provides a curated list of AI tools, with details on their uses,
 - [Speech Recognition](#speech-recognition)
 - [Design and Branding](#design-and-branding)
 - [Productivity and Writing](#productivity-and-writing)
+- [Video Editing](#video-editing)
 - [Other AI Tools](#other-ai-tools)
 
 ---
@@ -326,6 +327,13 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Pricing**: Paid (with trial)
    - **Trial Period**: Free trial available.
    - **Link**: [Visit Bearly AI](https://bearly.ai)
+
+### Video Editing
+1. **Recapo.ai**
+   - **Description**: Recapo.ai is an AI-powered editing platform that understands long-form video, generates scripts, edits clips, adds subtitles and voiceover, and delivers publish-ready short videos.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free tier available.
+   - **Link**: [Visit Recapo.ai](https://recapo.ai?from=ahmedosamamath-awesome-ai-tools)
 
 ### Other AI Tools
 1. **Runway**  
