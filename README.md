@@ -430,6 +430,12 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Trial Period**: Free trial available
     - **Link**: [Visit Slip.stream](https://www.slip.stream)
 
+18. **videos.social**  
+    - **Description**: Turn blogs, PDFs, and prompts into editable faceless videos (script, scenes, voiceover).
+    - **Pricing**: Freemium
+    - **Trial Period**: 1 free render included
+    - **Link**: [Visit videos.social](https://videos.social/?utm_source=ahmedosamamath-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d)
+
 ---
 
 ## Contributing
