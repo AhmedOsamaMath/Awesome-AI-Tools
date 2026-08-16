@@ -258,6 +258,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free trial available with limited features.
    - **Link**: [Visit Tabnine](https://www.tabnine.com)
 
+4. **Agent QA**
+   - **Description**: A source-available QA harness and MCP server for defining, running, and triaging natural-language web and mobile tests.
+   - **Pricing**: Free to install for permitted FSL use; configured model, browser, or device providers may charge separately.
+   - **Trial Period**: Not applicable.
+   - **Link**: [Visit Agent QA](https://github.com/vostride/agent-qa)
+
 ### Speech Recognition
 1. **Whisper API**  
    - **Description**: A speech recognition tool by OpenAI, capable of transcribing audio files.
