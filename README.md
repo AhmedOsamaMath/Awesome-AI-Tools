@@ -233,6 +233,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free tier available with basic features.
    - **Link**: [Visit Character.ai](https://beta.character.ai)
 
+2a. **WSUP AI**  
+   - **Description**: Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
+   - **Pricing**: Free
+   - **Trial Period**: No sign up required.
+   - **Link**: [Visit WSUP AI](https://wsupai.app/)
+
 3. **Forefront**  
    - **Description**: A conversational AI chatbot platform designed for customer support and interactive experiences.
    - **Pricing**: Paid
