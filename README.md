@@ -430,6 +430,12 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Trial Period**: Free trial available
     - **Link**: [Visit Slip.stream](https://www.slip.stream)
 
+18. **LiveFaceSwap AI**  
+    - **Description**: Applies a reference face to live webcam video, with an installation-free browser preview.
+    - **Pricing**: Paid, credit-based usage.
+    - **Trial Period**: Limited signup trial credits.
+    - **Link**: [Visit LiveFaceSwap AI](https://livefaceswap.ai/)
+
 ---
 
 ## Contributing
