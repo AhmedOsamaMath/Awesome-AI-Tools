@@ -327,6 +327,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free trial available.
    - **Link**: [Visit Bearly AI](https://bearly.ai)
 
+7. **Orkas**
+   - **Description**: Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+   - **Pricing**: Open source; optional paid model usage.
+   - **Trial Period**: Not required for the open-source application.
+   - **Link**: [Visit Orkas](https://orkas.ai/?source=gh_ahmed)
+
 ### Other AI Tools
 1. **Runway**  
    - **Description**: A creative suite for generating video, editing, and image manipulation using AI.
