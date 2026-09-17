@@ -430,6 +430,12 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Trial Period**: Free trial available
     - **Link**: [Visit Slip.stream](https://www.slip.stream)
 
+18. **OrkasVideoStudio**
+   - **Description**: MIT-licensed, local-first CLI and MCP toolkit for agent-driven video composition, editing and generation from editable plan.json timelines.
+   - **Pricing**: MIT; composition and editing require no provider key; optional generation providers may charge.
+   - **Trial Period**: Not applicable; install from source.
+   - **Link**: [GitHub](https://github.com/Orkas-AI/Orkas-VideoStudio)
+
 ---
 
 ## Contributing
