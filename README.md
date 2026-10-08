@@ -327,6 +327,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free trial available.
    - **Link**: [Visit Bearly AI](https://bearly.ai)
 
+7. **Tale**
+   - **Description**: Self-hosted project workspace where people and AI agents share tasks, files, and knowledge, with explicit starts and human review of agent outputs.
+   - **Pricing**: Free MIT-licensed Community software; infrastructure and model usage costs are separate. Optional Enterprise operation and support are paid offerings.
+   - **Trial Period**: Not applicable to Community: it is freely licensed self-hosted software, rather than a time-limited trial.
+   - **Link**: [Visit Tale](https://tale.dev)
+
 ### Other AI Tools
 1. **Runway**  
    - **Description**: A creative suite for generating video, editing, and image manipulation using AI.
