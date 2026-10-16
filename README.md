@@ -430,6 +430,12 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Trial Period**: Free trial available
     - **Link**: [Visit Slip.stream](https://www.slip.stream)
 
+18. **AI 만화 번역기**
+   - **Description**: AI 만화 번역기는 Ficory LLC가 제공하는 기업급 만화 리더로, 제품이 지원하는 모든 언어의 만화 번역을 처리합니다. 개인 사용자는 여러 페이지를 일괄 번역하고 번역 방식과 결과를 맞춤 설정합니다. 스튜디오 사용자는 완전한 온라인 Photoshop 스타일 편집기로 대사와 페이지 레이아웃을 편집합니다. 사용자는 API를 개인 작업 흐름에 연결해 번역 과정을 자동화합니다.
+   - **Pricing**: Freemium — 무료 크레딧과 유료 크레딧 팩·구독을 제공합니다.
+   - **Trial Period**: 사용자는 매일 출석 체크로 제한된 무료 크레딧을 받습니다. 현재 이용 한도는 제품에서 확인할 수 있습니다.
+   - **Link**: [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/)
+
 ---
 
 ## Contributing
