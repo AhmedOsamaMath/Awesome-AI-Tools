@@ -135,6 +135,30 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Trial Period**: Free to try.
     - **Link**: [Visit LandscapioAI](https://www.landscapioai.com/)
 
+7. **KDA Firestarter AI Dance**  
+   - **Description**: Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA.
+   - **Pricing**: Paid from $7.99
+   - **Trial Period**: Paid packs (one-time).
+   - **Link**: [Visit KDA Firestarter AI Dance](https://kdafirestarterai.dev)
+
+8. **A2O LITE NEON AI Dance**  
+   - **Description**: Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99).
+   - **Pricing**: Paid from $7.99
+   - **Trial Period**: Paid packs (one-time).
+   - **Link**: [Visit A2O LITE NEON AI Dance](https://a2oliteai.org)
+
+9. **dime dime baby ai**  
+   - **Description**: Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99).
+   - **Pricing**: Paid from $7.99
+   - **Trial Period**: Paid packs (one-time).
+   - **Link**: [Visit dime dime baby ai](https://dimedimebabyai.dev)
+- **[PromptImage](https://promptimage.cloud)** — Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium.
+- **[TeslaWraps](https://teslawraps.design)** — Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credits. Freemium.
+- **[GrokVideo Studio](https://grokvideogenerator.dev)** — Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official xAI or X product.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+
 ### Text Generation
 1. **ChatGPT**  
    - **Description**: A conversational AI tool by OpenAI for generating text and engaging in discussions.
