@@ -328,6 +328,7 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Link**: [Visit Bearly AI](https://bearly.ai)
 
 ### Other AI Tools
+- [Ideoy](https://ideoy.ai) - AI photo-to-video meme templates — turn a selfie into short vertical remakes of trending memes.
 1. **Runway**  
    - **Description**: A creative suite for generating video, editing, and image manipulation using AI.
    - **Pricing**: Paid (with limited free options).
