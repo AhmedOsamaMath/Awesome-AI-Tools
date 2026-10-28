@@ -303,13 +303,19 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free basic features.
    - **Link**: [Visit CVlogin](https://cvlogin.com)
 
-3. **Switchboard.ai**  
+3. **JobEmerge**
+   - **Description**: AI career tool for job-fit checks, resume editing and translation, cover letters, mock interviews, and application tracking.
+   - **Pricing**: Free features with optional one-time purchases; no auto-renewal.
+   - **Trial Period**: Free job-fit check and in-browser translation preview.
+   - **Link**: [Visit JobEmerge](https://www.jobemerge.work/)
+
+4. **Switchboard.ai**
    - **Description**: AI-powered project management and team collaboration tool.
    - **Pricing**: Paid (with trial)
    - **Trial Period**: Free trial available.
    - **Link**: [Visit Switchboard.ai](https://www.switchboard.ai)
 
-4. **BlogTweet**  
+5. **BlogTweet**
    - **Description**: AI tool for generating blog posts and social media content.
    - **Pricing**: Freemium
    - **Trial Period**: Limited free usage.
