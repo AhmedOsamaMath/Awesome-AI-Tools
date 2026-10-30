@@ -15,6 +15,7 @@ This repository provides a curated list of AI tools, with details on their uses,
 ---
 
 ### Image Generation
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 1. **DALL-E 3**  
    - **Description**: An image generation tool by OpenAI, capable of creating detailed and creative artwork from text prompts.
    - **Pricing**: Freemium
