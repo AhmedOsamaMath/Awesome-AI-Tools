@@ -333,6 +333,9 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Pricing**: Paid (with limited free options).
    - **Trial Period**: Free credits available.
    - **Link**: [Visit Runway](https://runwayml.com)
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 2. **ZMO.ai**  
    - **Description**: An AI platform for creating digital content, including virtual models and video editing.
