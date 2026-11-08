@@ -430,6 +430,12 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Trial Period**: Free trial available
     - **Link**: [Visit Slip.stream](https://www.slip.stream)
 
+18. **ReelAI**
+    - **Description**: Turns images into short videos using AI-powered preset effects.
+    - **Pricing**: Paid plans; see the [pricing page](https://tryreelai.com/pricing).
+    - **Trial Period**: Not confirmed.
+    - **Link**: [Visit ReelAI](https://tryreelai.com/)
+
 ---
 
 ## Contributing
