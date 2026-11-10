@@ -327,6 +327,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free trial available.
    - **Link**: [Visit Bearly AI](https://bearly.ai)
 
+7. **Prompt Generator**  
+   - **Description**: Free prompt generator that writes prompts in the syntax of the AI tool you pick: ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more.
+   - **Pricing**: Freemium
+   - **Trial Period**: 10 free prompts a day without an account, 20 a day with a free account.
+   - **Link**: [Visit Prompt Generator](https://trypromptgenerator.com)
+
 ### Other AI Tools
 1. **Runway**  
    - **Description**: A creative suite for generating video, editing, and image manipulation using AI.
