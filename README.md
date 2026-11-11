@@ -291,12 +291,6 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Link**: [Visit Logomaster.ai](https://logomaster.ai)
 
 ### Productivity and Writing
-
-7. **Novastart**
-   - **Description**: Infinite canvas workspace for apps, shared canvases, and AI agents.
-   - **Pricing**: Freemium; Pro $10/month, Team $20/month per user.
-   - **Trial Period**: Free plan available.
-   - **Link**: [Visit Novastart](https://novastart.com/)
 1. **Kickresume**  
    - **Description**: AI-powered resume builder and career development platform.
    - **Pricing**: Freemium
@@ -332,6 +326,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Pricing**: Paid (with trial)
    - **Trial Period**: Free trial available.
    - **Link**: [Visit Bearly AI](https://bearly.ai)
+
+7. **Novastart**
+   - **Description**: Infinite canvas workspace for apps, shared canvases, and AI agents.
+   - **Pricing**: Freemium; Pro $10/month, Team $20/month per user.
+   - **Trial Period**: Free plan available.
+   - **Link**: [Visit Novastart](https://novastart.com/)
 
 ### Other AI Tools
 1. **Runway**  
