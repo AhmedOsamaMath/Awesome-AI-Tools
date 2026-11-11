@@ -327,6 +327,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free trial available.
    - **Link**: [Visit Bearly AI](https://bearly.ai)
 
+7. **Novastart**
+   - **Description**: Infinite canvas workspace for apps, shared canvases, and AI agents.
+   - **Pricing**: Freemium; Pro $10/month, Team $20/month per user.
+   - **Trial Period**: Free plan available.
+   - **Link**: [Visit Novastart](https://novastart.com/)
+
 ### Other AI Tools
 1. **Runway**  
    - **Description**: A creative suite for generating video, editing, and image manipulation using AI.
