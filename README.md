@@ -239,6 +239,13 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Available.
    - **Link**: [Visit Forefront](https://www.forefront.ai)
 
+4. **Sammi: AI Girlfriend**  
+   - **Description**: Android AI companion for fictional character conversations, voice interaction, customization and creative roleplay.
+   - **Pricing**: Free download with optional in-app purchases.
+   - **Trial Period**: A separate time-limited trial has not been verified.
+   - **Link**: [Visit Sammi](https://sammiai.app/)
+
+
 ### Code Assistance
 1. **GitHub Copilot**  
    - **Description**: An AI pair programmer that helps you write code faster.
